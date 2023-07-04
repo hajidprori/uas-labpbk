@@ -1,5 +1,6 @@
 # uas-labpbk
-
+NAMA : M HAJID PRORI NUGRAHA
+NPM  : 213510337
 ## Project setup
 ```
 npm install
